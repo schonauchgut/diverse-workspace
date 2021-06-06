@@ -2,7 +2,7 @@
 How are we going to work in the future?
 
 ## About
-This is an overview of diverse workspace models for diverse workforces. As more and more corporations announce their post-covid19 workspace models more and more options emerge ranging from back-for-good over hybrid to super-progressive. This repository aims to provide you with an overview of potential models and a detailed list of employers that went public with their future working model. Hope it may be of use and inspiration for both employers and employees alike. The list is by no means exhaustive but will benefit from your pull-requests. 
+This is an overview of diverse workspace models for diverse workforces. As more and more corporations announce their post-covid19 workspace models more and more options emerge ranging from back-for-good over hybrid to super-progressive. This repository aims to provide you with an overview of potential models and a detailed list of employers that went public with their future working model (to be established). Hope it may be of use and inspiration for both employers and employees alike. The list is by no means exhaustive but will benefit from your pull-requests. 
 
 ## Models
 *Those models are defined as they came to attention to the authors of this list and are influenced by media coverage. Therefore, you might have come across that model in another context or connected to another employer*
@@ -22,9 +22,13 @@ Not an issue the most tech giants have. For governments the question of remote w
 
 ### KPMG Model – "The thought through"
 
-### Lawfirm Model – "We have alwys done it that way"
+### Lawfirm Model – "Sorry, we have done this before"
+It's almost never fair to be thrown in one basket with others and there are certainly examples of forwardthinking and progressive lawfirms (also with regard to their workspace and workforce) but for the sake of illustration lawfirms are ideal. Especially after having heard and seen that quite a few firms struggled to accept that working from home should be priority during the pandemic over having their people present. Fast forward one and a half year partners and senior counsels are eagerly awaiting their associates back at their desks as nothing ever happened. Only an employee I physically see is a working employee. And after all, we have done this before. Please be present.  
 
-### Porsche Model – "The undecided - X-Factor"
+### Porsche Model – "The X-Factor"
+Something we are probably going to see frequently. Porsche offers x=12 days of home office per month – that's 2-3 days per week. While it remains to be seen how this is actually be filled with life, it is giving employees clear guidance and is a clear commitment to candidates for job offers. Interesting side note: Porsche did not only announce the 12 days rule but also that it comes with a tech package which is said to include a large display. 
+
+Additional source: [Die Zeit](https://www.zeit.de/news/2021-05/16/porsche-mitarbeiter-12-tagen-im-monat-mobil-arbeiten)
 
 ### SAP Model – "Thr trusting one"
 
