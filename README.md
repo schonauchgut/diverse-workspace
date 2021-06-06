@@ -10,7 +10,7 @@ This is an overview of diverse workspace models for diverse workforces. As more 
 ### adidas Model – "Teamsport"
 While we are lacking final confirmation from Herzogenaurach, the place of adidas headquarter, Kasper Rorsted, CEO of the brand with the three stripes, has already set the tone for adidas future workspace. "Working is a social thing, it's teamsport for us". While this undeniable true or possible even for remote workers (as we learned in the past year), the Danish boss is not a fan of full time remote. A recent *Handelsblatt* article suggests 1-2 days remote [Handelsblatt]https://www.handelsblatt.com/karriere/karriere-die-hybrid-illusion-vier-unbequeme-wahrheiten-ueber-die-zukunft-der-arbeit/27249946.html.  While it needs to be seen how adidas ultimately decides, there is certainly room for a model marketing "teamsport" as a core value and as a driver for a rather physically-present than remote workforce.
 
-Additional source: [Brandeins]https://www.brandeins.de/magazine/brand-eins-thema/wirtschaftskanzleien-2021/die-wohnzimmer-ag
+Additional source: [Brandeins](https://www.brandeins.de/magazine/brand-eins-thema/wirtschaftskanzleien-2021/die-wohnzimmer-ag)
 
 ### Apple Model – "Steerd Hybrid"
 Apple or Tim Cook just recently announced in a excessively quoted mail to staff, that Apple is intending to have most staff on-site on Monday, Tuesday, Thursday with an option for remote work on Thursday and Friday. While this is an option of less freedom for employees it may have a positive steering effect for the employer (not saying that this outruns freedom of employees). Having three focus days makes it easier to estimate when your colleague is around, organise in person meetings and is important for facility management or catering.
