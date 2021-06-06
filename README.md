@@ -15,6 +15,7 @@ https://www.brandeins.de/magazine/brand-eins-thema/wirtschaftskanzleien-2021/die
 
 Additional source: [The Wall Street Journal](https://www.wsj.com/articles/apple-prepares-office-staff-for-hybrid-workweek-11622745636)
 
+### Government Model – "Limited by technology"
 
 ### KPMG Model – "The thought through"
 
