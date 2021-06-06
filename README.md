@@ -7,20 +7,22 @@ This is an overview of diverse workspace models for diverse workforces. As more 
 ## Models
 *Those models are defined as they came to attention to the authors of this list and are influenced by media coverage. Therefore, you might have come across that model in another context or connected to another employer*
 
-### adidas Model
+### adidas Model – "Teamsport"
 
-### Apple Model
+https://www.brandeins.de/magazine/brand-eins-thema/wirtschaftskanzleien-2021/die-wohnzimmer-ag
+
+### Apple Model – "Steerd Hybrid"
 
 Additional source: [The Wall Street Journal](https://www.wsj.com/articles/apple-prepares-office-staff-for-hybrid-workweek-11622745636)
 
 
-### KPMG Model
+### KPMG Model – "The thought through"
 
-### Lawfirm Model
+### Lawfirm Model – "We have alwys done it that way"
 
-### Porsche Model
+### Porsche Model – "The undecided - X-Factor"
 
-### SAP Model
+### SAP Model – "Thr trusting one"
 
 
 
