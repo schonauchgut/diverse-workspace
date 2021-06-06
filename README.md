@@ -21,6 +21,9 @@ Additional source: [The Wall Street Journal](https://www.wsj.com/articles/apple-
 Not an issue the most tech giants have. For governments the question of remote work still highly depends on the IT infrastructure available and the duties. Many authorities still require in person meetings of their workforce and citizens (at least in Germany) or files aren't digitalised. The IT infrastructure is often not up-to-date. Where private corporations have their workforce equipped with docking stations, laptops and smartphones – the reality of governmental organisations is often 180 degrees opposite. The "Limited by Technology"-scheme is therefore certainly sticking around for some more time.
 
 ### KPMG Model – "The thought through"
+Secretly the reason to start this list. KPMG announced supporting policies for remote working. Despite those policies not being formal it is remarkable to see what a listening approach can achieve. KPMG discourages meetings on Wednesday afternoons, suggests camera free Fridays and shorter meetings as well as fewer meetings in the morning. All with the intention (among others probably) to promote wellbeing of the remote workforce. This is not exactly like the models listed here but a rolemodel how workforce should be taken into account when thinking about future workplaces.
+
+Additional source: [accounting Today](https://www.accountingtoday.com/news/kpmg-launches-relaxed-work-policies-to-combat-remote-work-fatigue)
 
 ### Lawfirm Model – "Sorry, we have done this before"
 It's almost never fair to be thrown in one basket with others and there are certainly examples of forwardthinking and progressive lawfirms (also with regard to their workspace and workforce) but for the sake of illustration lawfirms are ideal. Especially after having heard and seen that quite a few firms struggled to accept that working from home should be priority during the pandemic over having their people present. Fast forward one and a half year partners and senior counsels are eagerly awaiting their associates back at their desks as nothing ever happened. Only an employee I physically see is a working employee. And after all, we have done this before. Please be present.  
@@ -30,8 +33,9 @@ Something we are probably going to see frequently. Porsche offers x=12 days of h
 
 Additional source: [Die Zeit](https://www.zeit.de/news/2021-05/16/porsche-mitarbeiter-12-tagen-im-monat-mobil-arbeiten)
 
-### SAP Model – "Thr trusting one"
+### SAP Model – "The trusting one"
+All in. SAP asked their workforce and they decided or gave an estimate. SAP is giving their employees all freedom to decide on whether to be present or not. Certainly a smart choice knowing that SAP is heavily in the cloud business and should have an interest in a high rate of acceptance for remote work or remote infrastructure. Definitely a signal of trust and flexibility. Interesting to see how this will play out in the longrun, e.g. on the market for talents.
 
-
+Additional source: [Manager Magazin](https://www.manager-magazin.de/unternehmen/tech/sap-mitarbeiter-koennen-homeoffice-machen-wann-sie-wollen-a-1283fedc-dcdf-4dae-95ee-a8bc1704f101)
 
 ## Workspace by Employer
